@@ -12,5 +12,4 @@ h1{
 .download_link{
 	color: aquamarine;
 	font-size: 16px;
-	font-family: Verdana;
 	}
